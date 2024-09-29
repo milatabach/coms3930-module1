@@ -1,5 +1,6 @@
 # coms3930-module1
 This page is dedicated to Module 1: Generative Art from COMS 3930: Creative Embedded Systems
+Process blog: https://milamodule1.hcommons.org/ 
 
 **Project Title:** Fall...ing in Love
 
