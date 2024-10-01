@@ -1,7 +1,7 @@
 # coms3930-module1
 This page is dedicated to Module 1: Generative Art from COMS 3930: Creative Embedded Systems 
 
-![Demo GIF](ezgif.com-video-to-gif-converter(1).gif)
+![Demo GIF](demo.gif)
 
 **Process blog:** https://milamodule1.hcommons.org/ 
 
